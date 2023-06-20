@@ -1,0 +1,40 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216692714607@s.whatsapp.net',
+    fromMe: false,
+    id: '6A5C60A4050B79AE02C7BFC2C5AB517E',
+    participant: undefined
+  },
+  messageTimestamp: 1687234637,
+  pushName: 'Carlos Leon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenos dias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenos dias',
+  from: '5216692714607'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216692714607@s.whatsapp.net',
+    fromMe: false,
+    id: '70F5D4BF437A399D20D3C400934D8515',
+    participant: undefined
+  },
+  messageTimestamp: 1687234646,
+  pushName: 'Carlos Leon',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5216692714607'
+}
